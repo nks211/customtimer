@@ -7,13 +7,9 @@
 전체 세트 수와 운동 시간, 휴식 시간을 마음대로 설정할 수 있는 운동 전용 타이머까지
 상황에 맞게 골라 쓰는 재미가 있는 타이머들로 준비해 보았습니다.
 
-아래 apk파일 링크를 남깁니다. 좋은 경험이 되었기를 바랍니다.
-
 A custom timer app made with my style, beyond a just timer.
 Tired of meaningless timer example showing numbers on display, so I found new images, fonts, styles by myself and recreate it.
 Bar-type Timer/Circle-type Timer that notices time left intuitively when the shape of polygon changes every seconds
 Ramen Timer that automatically sets the timer knowing type of noodle and quantities without the exact time
 Exercise Timer that controls exercising time, resting time and total number of sets manually
 Many interesting timers are ready for you!
-
-Here's APK link. Hope you have a great experience with my apk.
